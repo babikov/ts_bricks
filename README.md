@@ -4,6 +4,7 @@
 
 ```text       // commands and webpack configurations.
 ├─ src
-│  ├─ helpers           // typrscript helpers
-│  └─ patterns          // typrscript patterns
+│  ├─ algorithms        // TypeScript algorithms
+│  ├─ helpers           // TypeScript helpers
+│  └─ patterns          // TypeScript patterns
 ```
