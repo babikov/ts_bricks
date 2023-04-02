@@ -6,5 +6,6 @@
 ├─ src
 │  ├─ algorithms        // TypeScript algorithms
 │  ├─ helpers           // TypeScript helpers
+│  ├─ hooks             // React hooks
 │  └─ patterns          // TypeScript patterns
 ```
